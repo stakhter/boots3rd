@@ -1,0 +1,12 @@
+.box{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 5px;
+	font-size: 30px;
+	color: white;
+}
+.mh-c{
+	height: 400px;
+	background-color: pink;
+	margin-bottom: 5px;
+}
